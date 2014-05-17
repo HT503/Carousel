@@ -1,5 +1,5 @@
 - [ ] get things done
-- [ ] write this thing
+- [ x] write this thing
 
 #bibs aren't cool. 
 
